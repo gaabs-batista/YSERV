@@ -24,6 +24,7 @@ O contexto desse problema está presente principalmente em ambientes urbanos, on
 
 ## 💡 Design Thinking
 
+<img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/b2d7929e-3115-4330-9fe1-e83a6dab1c4b" />
 
 
 ---
@@ -84,4 +85,6 @@ De forma geral, os usuários possuem níveis variados de familiaridade com tecno
 ---
 
 ### 📝 Modelagem de problemas
+<img width="787" height="507" alt="image" src="https://github.com/user-attachments/assets/0d7b7b6a-1bb6-4123-8618-0489fe53b941" />
+<img width="787" height="507" alt="image" src="https://github.com/user-attachments/assets/622f36d6-3022-47df-a597-831b1fa61d00" />
 
