@@ -8,6 +8,7 @@ Além disso, o sistema busca aumentar a confiança entre clientes e profissionai
 ## Documentação
 <ol>
 <li><a href="Docs/DocumentacaoContexto.md"> Documentação de Contexto</a></li>
+<li><a href="Docs/Especificação do Projeto.md"> Especificação do Projeto</li>
 </ol>
 
 ## Contribuintes
