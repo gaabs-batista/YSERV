@@ -9,8 +9,8 @@ Além disso, o sistema busca aumentar a confiança entre clientes e profissionai
 <ol>
 <li><a href="Docs/DocumentacaoContexto.md"> Documentação de Contexto</a></li>
 <li><a href="Docs/Especificação do Projeto.md"> Especificação do Projeto</li>
-<li><a href="Docs/Projeto de Interface.md"> Especificação do Projeto</li>
-<li><a href="Docs/MVP.md"> Especificação do Projeto</li>
+<li><a href="Docs/Projeto de Interface.md"> Projeto de Interface</li>
+<li><a href="Docs/MVP.md"> MVP</li>
 </ol>
 
 ## Contribuintes
